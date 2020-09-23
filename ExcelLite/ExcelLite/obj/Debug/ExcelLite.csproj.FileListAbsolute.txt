@@ -1,0 +1,15 @@
+D:\School\Fontys\Software\ExcelLite\ExcelLite\bin\Debug\ExcelLite.exe.config
+D:\School\Fontys\Software\ExcelLite\ExcelLite\bin\Debug\ExcelLite.exe
+D:\School\Fontys\Software\ExcelLite\ExcelLite\bin\Debug\ExcelLite.pdb
+D:\School\Fontys\Software\ExcelLite\ExcelLite\obj\Debug\ExcelLite.csprojAssemblyReference.cache
+D:\School\Fontys\Software\ExcelLite\ExcelLite\obj\Debug\MainWindow.g.cs
+D:\School\Fontys\Software\ExcelLite\ExcelLite\obj\Debug\App.g.cs
+D:\School\Fontys\Software\ExcelLite\ExcelLite\obj\Debug\ExcelLite_MarkupCompile.cache
+D:\School\Fontys\Software\ExcelLite\ExcelLite\obj\Debug\ExcelLite_MarkupCompile.lref
+D:\School\Fontys\Software\ExcelLite\ExcelLite\obj\Debug\MainWindow.baml
+D:\School\Fontys\Software\ExcelLite\ExcelLite\obj\Debug\ExcelLite.g.resources
+D:\School\Fontys\Software\ExcelLite\ExcelLite\obj\Debug\ExcelLite.Properties.Resources.resources
+D:\School\Fontys\Software\ExcelLite\ExcelLite\obj\Debug\ExcelLite.csproj.GenerateResource.cache
+D:\School\Fontys\Software\ExcelLite\ExcelLite\obj\Debug\ExcelLite.csproj.CoreCompileInputs.cache
+D:\School\Fontys\Software\ExcelLite\ExcelLite\obj\Debug\ExcelLite.exe
+D:\School\Fontys\Software\ExcelLite\ExcelLite\obj\Debug\ExcelLite.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelLite", "ExcelLite\ExcelLite.csproj", "{90880E08-A889-4376-BA52-5E747FF4B8BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90880E08-A889-4376-BA52-5E747FF4B8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90880E08-A889-4376-BA52-5E747FF4B8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90880E08-A889-4376-BA52-5E747FF4B8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90880E08-A889-4376-BA52-5E747FF4B8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AE39A09-5CCA-48FC-A92C-2B3BF29E1831}
+	EndGlobalSection
+EndGlobal

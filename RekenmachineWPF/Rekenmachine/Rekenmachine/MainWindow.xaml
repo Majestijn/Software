@@ -1,0 +1,26 @@
+﻿<Window x:Class="Rekenmachine.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rekenmachine"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Name="button1" Content="1" HorizontalAlignment="Left" Margin="59,40,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButton1Click"/>
+        <Button Name="button2" Content="2" HorizontalAlignment="Left" Margin="136,40,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButton2Click"/>
+        <Button Name="button3" Content="3" HorizontalAlignment="Left" Margin="211,40,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButton3Click"/>
+        <Button Name="button4" Content="4" HorizontalAlignment="Left" Margin="59,116,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButton4Click"/>
+        <Button Name="button5" Content="5" HorizontalAlignment="Left" Margin="136,116,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButton5Click"/>
+        <Button Name="button6" Content="6" HorizontalAlignment="Left" Margin="211,116,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButton6Click" RenderTransformOrigin="0.514,0.509"/>
+        <Button Name="button7" Content="7" HorizontalAlignment="Left" Margin="59,182,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButton7Click"/>
+        <Button Name="button8" Content="8" HorizontalAlignment="Left" Margin="136,182,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButton8Click"/>
+        <Button Name="button9" Content="9" HorizontalAlignment="Left" Margin="211,182,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButton9Click"/>
+        <TextBlock Name="label" HorizontalAlignment="Left" Margin="60,261,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="33" Width="201"/>
+        <Button x:Name="add" Content="+" HorizontalAlignment="Left" Margin="318,40,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButtonAddClick"/>
+        <Button x:Name="subtract" Content="-" HorizontalAlignment="Left" Margin="318,116,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButtonSubtractClick"/>
+        <Button x:Name="subtract_Copy" Content="=" HorizontalAlignment="Left" Margin="318,182,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButtonEqualsClick"/>
+        <Button x:Name="clear" Content="C" HorizontalAlignment="Left" Margin="402,40,0,0" VerticalAlignment="Top" Width="50" Height="50" Click="onButtonClearClick"/>
+
+    </Grid>
+</Window>

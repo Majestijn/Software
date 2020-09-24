@@ -1,0 +1,15 @@
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe.config
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.pdb
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csprojAssemblyReference.cache
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\obj\Debug\MainWindow.g.cs
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\obj\Debug\App.g.cs
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine_MarkupCompile.cache
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine_MarkupCompile.lref
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\obj\Debug\MainWindow.baml
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.g.resources
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.Properties.Resources.resources
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.GenerateResource.cache
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.CoreCompileInputs.cache
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.exe
+D:\School\Fontys\Jaar_1\Semester_1\Software\RekenmachineWPF\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.pdb
